@@ -16,6 +16,7 @@ Rehabilitación del brazo en personas con ACV
 - José Caceres
 - Marco Mugaburu
 - Jhomer Contreras
+- Alonso ...
 
 ## 👥 Integrantes del proyecto
   
