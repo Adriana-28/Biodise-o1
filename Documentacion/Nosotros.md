@@ -11,4 +11,4 @@
 </p>
 
 ## ❗ Hitos
-[**Hito 1**]([Documentacion/Hito1.md](https://github.com/Adriana-28/Biodise-o1/blob/main/Documentacion/Hito1.md))
+[**Hito 1**]([Documentacion/Hito1.md](https://github.com/Adriana-28/Biodise-o1/blob/main/Documentacion/Hito1.md)
