@@ -63,6 +63,16 @@ https://www.ncbi.nlm.nih.gov/books/NBK560694/
 https://exrx.net/Kinesiology/Levers
 
 
+## Anatomía clave para el diseño
+#### Justificación anatómica y biomecánica
+El tríceps braquial es el músculo extensor principal del codo, insertándose por medio de su tendón en el olécranon. Su acción genera un torque extensor alrededor del eje móvil formado por el epicóndilo y epitróclea del húmero y la articulación del codo. Colocar un motor o actuador alineado con la línea de tracción del tríceps permite transferir torque de forma más directa y eficiente hacia la extensión del codo, minimizando pérdidas por palancas incorrectas, fricción o fuerzas antagonistas. Además, al ubicarlo cerca del tríceps, se aprovecha la proximidad anatómica, reduciendo la longitud y masa del sistema de transmisión que de otro modo podría generar sobrecargas o incomodidad.
+
+#### Rango de par terapaéutico
+##### Justificación anatómica y biomecánica
+El tríceps braquial es el músculo extensor principal del codo, insertándose por medio de su tendón en el olécranon. Su acción genera un torque extensor alrededor del eje móvil formado por el epicóndilo y epitróclea del húmero y la articulación del codo. Colocar un motor o actuador alineado con la línea de tracción del tríceps permite transferir torque de forma más directa y eficiente hacia la extensión del codo, minimizando pérdidas por palancas incorrectas, fricción o fuerzas antagonistas. Además, al ubicarlo cerca del tríceps, se aprovecha la proximidad anatómica, reduciendo la longitud y masa del sistema de transmisión que de otro modo podría generar sobrecargas o incomodidad.
+
+<img width="900" height="671" alt="image" src="https://github.com/Adriana-28/Biodise-o1/blob/main/trash/Captura%20de%20pantalla%202025-09-19%20125421.png" />
+https://www.researchgate.net/publication/239941632_Elbow_spasticity_during_passive_stretch-reflex_Clinical_evaluation_using_a_wearable_sensor_system
 
 
 Referencia
