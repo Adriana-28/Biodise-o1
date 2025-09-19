@@ -122,7 +122,7 @@ La recuperación del brazo en pacientes post-ACV sigue típicamente una curva co
 <img width="1420" height="1153" alt="image" src="https://github.com/user-attachments/assets/d1e3e913-00df-452d-8f0d-f97f6bfaccba" />
 
 ## Nuestro proyecto
-[[**Repositorio grupo 2**](https://github.com/Adriana-28/Biodise-o1/blob/main/Documentacion/Nosotros.md) 
+[**Repositorio grupo 2**](https://github.com/Adriana-28/Biodise-o1/blob/main/Documentacion/Nosotros.md) 
 
 
 ## **Link de drive **
