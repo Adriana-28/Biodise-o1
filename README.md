@@ -418,7 +418,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Uso:</b><br>
         <ul>
-          <li>La ortesis es para uso en pacientes con espasticidad moderada, adultos (18-75 años aprox.)</li>
+          <li>La ortesis es para uso en pacientes con espasticidad moderada, adultos (18-40 años aprox.)</li>
           <li>Para uso en entorno clínico supervisado y en uso domiciliario bajo indicación y seguimiento de un profesional en sesiones continuas con descansos indicados.</li>
           <li>Para uso en interiores, no bajo lluvia, polvo excesivo o ambientes no controlados.</li>
           <li>La temperatura óptima estará en el rango de los (10º a +40ºC) con humedad relativa 30% -80% sin condensación y para almacenar en lugar seco(los rangos dependen de los componentes electrónicos y sensores utilizados)</li>
