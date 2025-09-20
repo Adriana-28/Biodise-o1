@@ -212,6 +212,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Geometría:</b><br>
         <ul>
+          <l1>Las dimensiones de la ortesis estan dentro de estos parametros(pacientes adultos)=</l1>
           <li>25-30 cm longitud del brazo proximal</li>
           <li>20-25 cm longitud del antebrazo</li>
           <li>8-10 cm diámetro del brazo proximal</li>
