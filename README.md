@@ -12,11 +12,12 @@ Rehabilitación del brazo en personas con ACV
 
 ## ✍️ Profesores del curso
 
-- Domingo Flores
-- José Caceres
-- Marco Mugaburu
-- Jhomer Contreras
-- Alonso ...
+- Domingo Flores Robles
+- José Caceres del Aguila
+- Marco Mugaburu Celi
+- Jhomer Contreras Paucca
+- Leslie Cieza Huane
+- Jaime Luis Lam
 
 ## 👥 Integrantes del proyecto
   
