@@ -163,45 +163,6 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       </ul>
     </td>
   </tr>
-
-  <thead>
-    <tr style="background-color:#dbe5f1;">
-      <th>Fecha (cambios)</th>
-      <th>Deseo / Exigencia</th>
-      <th>Descripción</th>
-      <th>Responsable</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>12/09/2025</td>
-      <td>E</td>
-      <td>
-        <b>Función principal:</b><br>
-        <ul>
-          <li>Generar y asistir la extensión del codo en paciente post-ACV dentro de un rango terapéutico seguro para grado moderado de espasticidad.</li>
-        </ul>
-      </td>
-      <td>MDC</td>
-    </tr>
-    <tr>
-      <td>12/09/2025</td>
-      <td>
-        E<br>
-        E<br>
-        E
-      </td>
-      <td>
-        <b>Función Secundaria:</b><br>
-        <ul>
-          <li>Registrar datos de ángulo</li>
-          <li>Registrar datos de la fuerza aplicada por el paciente</li>
-          <li>Permitir terapia pasiva cuando el paciente puede extender el brazo voluntariamente y terapia activa asistida (si detecta intención en el paciente).</li>
-        </ul>
-      </td>
-      <td>MTO</td>
-    </tr>
-  </tbody>
 </table>
 
 
