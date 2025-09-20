@@ -141,7 +141,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
     <td>
       Diseño de ortesis dinámica para la extensión del brazo en pacientes en rehabilitación post ACV
     </td>
-    <td><b>Fecha: 29/08/2025</b></td>
+    <td><b>Fecha: 19/09/2025</b></td>
   </tr>
   <tr>
     <td><b>CLIENTE:</b></td>
@@ -164,6 +164,64 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
     </td>
   </tr>
 </table>
+<table>
+  <thead>
+    <tr style="background-color:#dbe5f1;">
+      <th>Fecha (cambios)</th>
+      <th>Deseo / Exigencia</th>
+      <th>Descripción</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Función principal -->
+    <tr>
+      <td>12/09/2025</td>
+      <td>E</td>
+      <td>
+        <b>Función principal:</b><br>
+        <ul>
+          <li>Generar y asistir la extensión del codo en paciente post-ACV dentro de un rango terapéutico seguro para grado moderado de espasticidad.</li>
+        </ul>
+      </td>
+      <td>MDC</td>
+    </tr>
+
+    <!-- Función secundaria -->
+    <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Función Secundaria:</b><br>
+        <ul>
+          <li>Registrar datos de ángulo</li>
+          <li>Registrar datos de la fuerza aplicada por el paciente</li>
+          <li>Permitir terapia pasiva cuando el paciente puede extender el brazo voluntariamente y terapia activa asistida (si detecta intención en el paciente).</li>
+        </ul>
+      </td>
+      <td>MTO</td>
+    </tr>
+
+    <!-- Geometría -->
+    <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Geometría:</b><br>
+        Dimensiones de la ortesis (pacientes adultos):<br>
+        <ul>
+          <li>25-30 cm longitud del brazo proximal</li>
+          <li>20-25 cm longitud del antebra
+
 
 
 https://docs.google.com/document/d/1X-qaktTLQGVNxZ0xA8ifTPhIf7OUvqjS/edit?rtpof=true&tab=t.0
