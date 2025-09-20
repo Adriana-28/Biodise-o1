@@ -201,6 +201,30 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       </td>
       <td>MTO</td>
     </tr>
+    <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Geometría:</b><br>
+        <ul>
+          <li>25-30 cm longitud del brazo proximal</li>
+          <li>20-25 cm longitud del antebrazo</li>
+          <li>8-10 cm diámetro del brazo proximal</li>
+          <li>6-8 cm diámetro del antebrazo</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+
+
+
+
+    
   </tbody>
 </table>
 
