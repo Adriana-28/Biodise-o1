@@ -484,7 +484,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Plazos:</b><br>
         <ul>
-          <li>El diseño se terminará a más tardar el 11/12 /2025.</li>
+          <li>El diseño se terminará a más tardar el 5/12 /2025.</li>
         </ul>
       </td>
       <td>MIM</td>
