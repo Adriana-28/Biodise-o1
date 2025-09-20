@@ -154,7 +154,11 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
     </tr>
     <tr>
       <td>12/09/2025</td>
-      <td>E<br>E<br>E</td>
+      <td>
+        E<br>
+        E<br>
+        E
+      </td>
       <td>
         <b>Función Secundaria:</b><br>
         <ul>
@@ -167,7 +171,6 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
     </tr>
   </tbody>
 </table>
-
 
 
 https://docs.google.com/document/d/1X-qaktTLQGVNxZ0xA8ifTPhIf7OUvqjS/edit?rtpof=true&tab=t.0
