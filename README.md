@@ -238,6 +238,76 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       </td>
       <td>MIM</td>
     </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+      </td>
+      <td>
+        <b>Fuerza:</b><br>
+        <ul>
+          <li>El torque nominal es de 3 a 5 N/m, por lo que es suficiente para vencer la espasticidad leve o moderado, sin sobrepasar 10N/m en casos de alta resistencia muscular al movimiento así como no generar picos de fuerza que presenten un riesgo para el paciente.
+          </li>
+        </ul>
+      </td>
+      <td>JASV</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Hardware:</b><br>
+        <ul>
+          <li>Ortesis dinamica articulada ajustable al brazo poximal y antebrazo imporeso en 3D</li>
+          <li>La porcion proximal cuenta con compartimentos para la bateria, componentes electronicos para aligerar la seccion del antebrazo, disminuir el momento de inercia en el codo y no desestabilizar el brazo.</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+      </td>
+      <td>
+        <b>Energia:</b><br>
+        <ul>
+          <li>Dispositivo recargable, con un tiempo de uso continuo de al menos 4h durante las sesiones de rehabilitacion</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        e<br>
+      </td>
+      <td>
+        <b>Señales:</b><br>
+        <ul>
+          <li>Entrada:</li>
+          <li>Señal de encendido y apagado</li>
+          <li>Señal de seteo de angulo inicial</li>
+          <li>Salidas:</li>
+          <l1>Señal de nivel de bateria</l1>
+          <li>Señal indicadora de angulo</li>
+          <li>Señal indicadora de fuerza aplicada por el paciente</li>
+          <li>Señal de control del actuador</li>
+          <li>Alarma en caso de emergencia(ante valores de salida erroneos de angulo para el actuador</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+    
+
 
 
 
