@@ -480,9 +480,6 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>12/09/2025</td>
       <td>
         E<br>
-        E<br>
-        E<br>
-        E
       </td>
       <td>
         <b>Plazos:</b><br>
