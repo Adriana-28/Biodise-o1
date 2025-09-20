@@ -26,7 +26,7 @@ Rehabilitación del brazo en personas con ACV
 | Jhamil Soto Vera  | Coordinador de electrónica y 3D  | jhamil.soto@upch.pe | <img align="center" height="90px" alt="image" src="https://github.com/user-attachments/assets/83124d24-7119-4bd7-97f1-e0ad3fe5d54a" />|
 | Fernando Zela  | Coordinador de programación | fernando.zela@upch.pe | <image align="center;" width="90px;" alt="image" src="trash/photo-1529778873920-4da4926a72c2.jpg" >
 | Mariano Mateo Italo | Coordinador de programación | mariano.salazar@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="trash/Profile.jpg">
-| Itzel Miyeko de la Cruz Galvez  | Coordinadora de electrónica | itzel.de.la.cruz@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="trash/photo-1529778873920-4da4926a72c2.jpg">
+| Itzel Miyeko de la Cruz Galvez  | Coordinadora de electrónica | itzel.de.la.cruz@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="https://github.com/Adriana-28/Biodise-o1/blob/main/trash/WhatsApp%20Image%202025-09-20%20at%2011.35.58%20AM.jpeg">
 | Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="https://github.com/Adriana-28/Biodise-o1/blob/main/trash/WhatsApp%20Image%202025-09-20%20at%2011.33.35%20AM.jpeg">
 
 ## **¿Qué es el accidente cerebrovascular (ACV)?**
