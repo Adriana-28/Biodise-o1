@@ -63,12 +63,15 @@ https://www.ncbi.nlm.nih.gov/books/NBK560694/
 https://exrx.net/Kinesiology/Levers
 
 Rehabilitación del miembro superior post-ACV
+
 La rehabilitación del miembro superior tras un accidente cerebrovascular (ACV) representa un reto clínico debido a la frecuente presencia de paresia, espasticidad y pérdida de rango articular, especialmente en los movimientos de extensión del brazo. Tradicionalmente, la fisioterapia y la terapia ocupacional han constituido los métodos más aplicados; sin embargo, en la actualidad se han desarrollado dispositivos de asistencia, como las órtesis dinámicas y los exoesqueletos, que buscan optimizar los resultados alcanzados con la rehabilitación convencional.
 
 Rehabilitación convencional
+
 La rehabilitación convencional del brazo post-ACV se basa en sesiones de fisioterapia y terapia ocupacional que incluyen ejercicios pasivos, asistidos, repetitivos y funcionales. El objetivo principal es recuperar fuerza, rango de movimiento y autonomía en las actividades de la vida diaria. Este enfoque es especialmente efectivo durante las primeras semanas posteriores al evento, cuando la recuperación espontánea se suma al efecto de la terapia. No obstante, sus limitaciones en la intensidad y la cantidad de repeticiones conducen a que muchos pacientes alcancen una meseta funcional temprana, lo que dificulta la recuperación completa de la extensión del brazo.
 
 Rehabilitación con órtesis dinámica
+
 La rehabilitación con órtesis dinámica se fundamenta en el uso de dispositivos mecánicos o robóticos que asisten y facilitan los movimientos de extensión. Estas órtesis proporcionan asistencia graduable, contrarrestando la gravedad o aplicando fuerzas elásticas controladas, lo que permite que el paciente ejecute movimientos que de otro modo serían imposibles por la debilidad o la espasticidad. Gracias a este soporte, es posible realizar cientos de repeticiones en una sola sesión, aumentando la dosis de práctica, la intensidad del entrenamiento y la estimulación de la neuroplasticidad.
 A diferencia de la rehabilitación convencional, donde la curva de progreso tiende a aplanarse tras las primeras semanas, el uso de órtesis dinámica permite mantener una pendiente de mejora constante y alcanzar una meseta más alta o incluso retrasar su aparición. Esto significa que el paciente sigue progresando más allá del límite temprano que suele imponer la terapia tradicional. Además, las órtesis favorecen el entrenamiento orientado a tareas funcionales y la transferencia de lo aprendido a las actividades de la vida diaria.
 La evidencia científica avala estos beneficios: revisiones sistemáticas y meta-análisis (Cochrane, 2018; Chen et al., 2020; Lo et al., 2010) han demostrado que las órtesis dinámicas y los exoesqueletos se asocian con mejoras adicionales en la función del brazo, la fuerza y el rango articular en comparación con la terapia convencional sola. En particular, las órtesis dinámico-progresivas (como Dynasplint® o férulas elásticas) han mostrado eficacia en mantener y recuperar la extensión del codo, reduciendo contracturas asociadas a la espasticidad.
