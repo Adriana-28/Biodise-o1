@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-09-28%20112259.png?raw=true">
 </p>
-
-# CHIMUELO
 Rehabilitación del brazo en personas con ACV
 # 👋 Bienvenidos al repositorio de CODOX.
 
