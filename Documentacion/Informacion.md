@@ -75,6 +75,6 @@ El tríceps braquial es el músculo extensor principal del codo, insertándose p
 https://www.researchgate.net/publication/239941632_Elbow_spasticity_during_passive_stretch-reflex_Clinical_evaluation_using_a_wearable_sensor_system
 
 MATRIZ MORFOLÓGICA
-![](https://github.com/Adriana-28/Biodise-o1/blob/main/trash/Captura%20de%20pantalla%202025-09-19%20210927.png)
+<img width="900" height="671" alt="image" src="https://github.com/Adriana-28/Biodise-o1/blob/main/trash/Captura%20de%20pantalla%202025-09-19%20210927.png" />
 Referencia
 
