@@ -27,7 +27,7 @@ Rehabilitación del brazo en personas con ACV
 | Fernando Zela  | Coordinador de programación | fernando.zela@upch.pe | <image align="center;" width="90px;" alt="image" src="trash/photo-1529778873920-4da4926a72c2.jpg" >
 | Mariano Mateo Italo | Coordinador de programación | mariano.salazar@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="trash/Profile.jpg">
 | Itzel Miyeko de la Cruz Galvez  | Coordinadora de electrónica | itzel.de.la.cruz@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="trash/photo-1529778873920-4da4926a72c2.jpg">
-| Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="trash/photo-1529778873920-4da4926a72c2.jpg">
+| Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="https://github.com/Adriana-28/Biodise-o1/blob/main/trash/WhatsApp%20Image%202025-09-20%20at%2011.33.35%20AM.jpeg">
 
 ## **¿Qué es el accidente cerebrovascular (ACV)?**
 
