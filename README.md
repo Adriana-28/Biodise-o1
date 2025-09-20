@@ -131,7 +131,39 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
 ¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
 
 <h2>## Lista de exigencias</h2>
-<table>
+<table border="1" cellspacing="0" cellpadding="5" width="100%">
+  <tr>
+    <td colspan="2" align="center"><b>LISTA DE EXIGENCIAS</b></td>
+    <td><b>Edición: Rev.2</b></td>
+  </tr>
+  <tr>
+    <td><b>PROYECTO:</b></td>
+    <td>
+      Diseño de ortesis dinámica para la extensión del brazo en pacientes en rehabilitación post ACV
+    </td>
+    <td><b>Fecha: 29/08/2025</b></td>
+  </tr>
+  <tr>
+    <td><b>CLIENTE:</b></td>
+    <td align="center">
+      Domingo Flores<br>
+      Jose Caceres<br>
+      Marco Mugaburu<br>
+      Jhomer Contreras
+    </td>
+    <td>
+      <b>Elaborado:</b><br>
+      <ul>
+        <li>Miguel Tello Ocaña (MTO)</li>
+        <li>Jhamil Alessandro Soto Vera (JASV)</li>
+        <li>Adriana Patricia Quispe Gomez (APQG)</li>
+        <li>Miyeko De la Cruz (MDC)</li>
+        <li>Mariano Italo Mateo Salazar Paredes (MIM)</li>
+        <li>Fernando Zela Guevara (FZG)</li>
+      </ul>
+    </td>
+  </tr>
+
   <thead>
     <tr style="background-color:#dbe5f1;">
       <th>Fecha (cambios)</th>
