@@ -130,7 +130,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
 ## **Pregunta de investigación**
 ¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
 
-## Lista de exigencias
+<h2>## Lista de exigencias</h2>
 <table>
   <thead>
     <tr style="background-color:#dbe5f1;">
