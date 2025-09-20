@@ -131,6 +131,13 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
 ¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
 
 ## Lista de exigencias
+Fecha      | Tipo | Deseo / Exigencia | Descripción                                                                                                                                                                                                 | Responsable |
+|------------|------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 12/09/2025 | E    | Función principal  | Generar y asistir la extensión del codo en paciente post-ACV dentro de un rango terapéutico seguro para grado moderado de espasticidad.                                                                     | MDC         |
+| 12/09/2025 | E    | Función secundaria | - Registrar datos de ángulo<br>- Registrar datos de la fuerza aplicada por el paciente<br>- Permitir terapia pasiva y activa asistida (si detecta intención del paciente).                                   | MTO         |
+| 12/09/2025 | E    | Geometría          | Dimensiones de la ortesis (adultos):<br>- 25-30 cm longitud brazo proximal<br>- 20-25 cm longitud antebrazo<br>- 8-10 cm diámetro brazo proximal<br>- 6-8 cm diámetro antebrazo                               | MIM         |
+| 12/09/2025 | E    | Cinemática         | - Rango de angulación de 45° a 135° según grado de espasticidad.<br>- Actuador que aplica torque gradual y seguro en función del progreso del paciente.                                                       | MIM         |
+| 12/09/2025 | E    | Fuerza             | Torque nominal de 3 a 5 N·m, suficiente para espasticidad leve/moderada. No debe superar 10 N·m ni generar picos de fuerza que representen riesgo para el paciente.                                           | JASV        |
 https://docs.google.com/document/d/1X-qaktTLQGVNxZ0xA8ifTPhIf7OUvqjS/edit?rtpof=true&tab=t.0
 ### DRIVE
 https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
