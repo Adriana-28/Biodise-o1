@@ -165,14 +165,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
   </tr>
 </table>
 <table>
-  <thead>
-    <tr style="background-color:#dbe5f1;">
-      <th>Fecha (cambios)</th>
-      <th>Deseo / Exigencia</th>
-      <th>Descripción</th>
-      <th>Responsable</th>
-    </tr>
-  </thead>
+  
   <tbody>
   <table>
   <thead>
