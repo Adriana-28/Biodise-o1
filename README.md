@@ -288,7 +288,9 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
         E<br>
         E<br>
         E<br>
-        e<br>
+        E<br>
+        E<br>
+        E<br>
       </td>
       <td>
         <b>Señales:</b><br>
@@ -297,16 +299,199 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
           <li>Señal de encendido y apagado</li>
           <li>Señal de seteo de angulo inicial</li>
           <li>Salidas:</li>
-          <l1>Señal de nivel de bateria</l1>
+          <li>Señal de nivel de bateria</l1>
           <li>Señal indicadora de angulo</li>
           <li>Señal indicadora de fuerza aplicada por el paciente</li>
           <li>Señal de control del actuador</li>
-          <li>Alarma en caso de emergencia(ante valores de salida erroneos de angulo para el actuador</li>
+          <li>Alarma en caso de emergencia(ante valores de salida erroneos de angulo para el actuador)</li>
+        </ul>
+      </td>
+      <td>MDC</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Control:</b><br>
+        <ul>
+          <li>Sistema que ajusta la señal de la fuerza aplicada para la terapia activa asistida dependiendo del perfil del paciente</li>
+          <li>Ajuste progresivo del angulo maaximo de extension en funcion del ritmo de rehabilitacion(depende del uso)</li>
+          <li>Autocalibracion inicial actualizando el ROM(modo activo y pasivo)</li>
+          <li>Sistema diferenciador de intento voluntario y espasmos descartando falsos positivos de activacion</li>
+          <li>Gestion de bateria y degradacion de rendimiento, en casos de bateria baja para evitar subita perdida de movimiento</li>
         </ul>
       </td>
       <td>MIM</td>
     </tr>
-    
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Seguridad:</b><br>
+        <ul>
+          <li>La ortesis dinamica cuenta con limites fisicos para evitar la hiperextension y movimentos bruscos que pueden dañar la articulacion</li>
+          <li>Uso de limitador de torqueqye actua protegiendo la articulacion de fuerzas externas o espasmos que generen picos de torque</li>
+          <li>Mecanismo de liberacion rapida, que permite que el profesional libere o desconecte la asistencia manualmente</li>
+          <li>Incluye corte de alimentacion de todo el sistema para no depender solo del software</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Ergonomia:</b><br>
+        <ul>
+          <li>Ajustable a diferentes longitudes, (-25-30 cm para la longitud del brazo proximal(, 20-25 cm para la longitud del antebrazo, diámetro del brazo proximal 8-10 cm, diámetro del antebrazo 6-8 cm)
+</li>
+          <li>Puntos de contacto con la piel acolchados para distribuir la presión y  reducir rozamiento con la piel
+</li>
+          <li>El dispositivo garantiza la libertad de movimiento articulaciones no tratadas
+</li>
+        </ul>
+      </td>
+      <td>JVC</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Control de calidad:</b><br>
+        <ul>
+          <li>validación con dispositivos comerciales para medición del ángulo y calibración de los sensores que miden los ángulos</li>
+          <li>Test de ciclos de uso continuo para verificación de la vida útil de la batería
+</li>
+          <li>test de ergonomía y ajuste al brazo del usuario
+</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Transporte:</b><br>
+        <ul>
+          <li>Diseño cuenta con modo transporte/locked donde las piezas permanecen fijas</li>
+          <li>Cubiertas y protectores para piezas móviles</li>
+          <li>Terminales de la batería aisladas para evitar cortocircuitos y para transporte en ambientes con poca humedad (dependiente de los componentes electrónicos y sensores) </li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Uso:</b><br>
+        <ul>
+          <li>La ortesis es para uso en pacientes con espasticidad moderada, adultos (18-75 años aprox.)</li>
+          <li>Para uso en entorno clínico supervisado y en uso domiciliario bajo indicación y seguimiento de un profesional en sesiones continuas con descansos indicados.</li>
+          <li>Para uso en interiores, no bajo lluvia, polvo excesivo o ambientes no controlados.</li>
+          <li>La temperatura óptima estará en el rango de los (10º a +40ºC) con humedad relativa 30% -80% sin condensación y para almacenar en lugar seco(los rangos dependen de los componentes electrónicos y sensores utilizados)</li>
+          <li>No exponerse al agua, no es impermeable.</li>
+          <li>Para uso en pacientes sentado o recostado, no de pie o en movimiento.</li>
+        </ul>
+      </td>
+      <td>JVC/MAA</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Montaje:</b><br>
+        <ul>
+          <li>Diseño modular para ensamblaje y desmontaje (menos de 2 horas para la calibración y verificación de las correas, soportes y que los sensores sensores estén listos para iniciar funcionamiento).
+</li>
+          <li>El fisioterapeuta realiza un movimiento pasivo de prueba para confirmar que no hay roces ni desalineación.
+</li>
+        </ul>
+      </td>
+      <td>MTO</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+      </td>
+      <td>
+        <b>Mantenimiento:</b><br>
+        <ul>
+          <li>Limpieza con paño suave y solución desinfectante no abrasiva.</li>
+          <li>Lubricación para elementos articuladores o parte mecánica  (usar lubricante medico compatible).</li>
+          <li>Batería intercambiable tras fin de vida útil.</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+      </td>
+      <td>
+        <b>Costo:</b><br>
+        <ul>
+          <li>El diseño y desarrollo del dispositivo se encontrará dentro del presupuesto establecido de S/.20 mil(15 horas semanales por persona durante 8 semanas).
+</li>
+        </ul>
+      </td>
+      <td>JASV</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E<br>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Plazos:</b><br>
+        <ul>
+          <li>El diseño se terminará a más tardar el 11/10 /2025.</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
 
 
 
