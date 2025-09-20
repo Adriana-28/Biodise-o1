@@ -75,6 +75,7 @@ La evidencia científica avala estos beneficios: revisiones sistemáticas y meta
 
 <img width="764" height="570" alt="image" src="https://github.com/user-attachments/assets/74c472a0-f068-41fe-9d28-3ade3f3560fa" />
 
+
 Curva de recuperación post-ACV (FM-UE)
 La siguiente figura ilustra la diferencia entre ambas modalidades de tratamiento, usando como métrica la Fugl-Meyer para extremidad superior (FM-UE, 0–66 puntos):
 Convencional (azul): incremento inicial rápido hasta ≈6–8 semanas, seguido de una meseta prematura alrededor de los 50 puntos FM-UE.
@@ -82,6 +83,12 @@ Convencional (azul): incremento inicial rápido hasta ≈6–8 semanas, seguido 
 
 Órtesis dinámica (naranja): mayor pendiente de progreso en la fase intermedia (2–10 semanas) y una meseta más alta (≈55–58 puntos FM-UE), con menor tendencia a estancarse.
 En términos prácticos, esto significa que la órtesis dinámica permite superar la meseta limitante de la terapia convencional, prolongando la mejora y optimizando la recuperación funcional del brazo.
+
+Mehrholz J, et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. Cochrane Database Syst Rev. 2018;CD006876.
+
+Lo AC, et al. Robot-assisted therapy for long-term upper-limb impairment after stroke. N Engl J Med. 2010;362(19):1772-1783.
+
+Chen J, et al. Effects of robot-assisted arm training on upper limb function in stroke survivors: a systematic review and meta-analysis. J Neuroeng Rehabil. 2020;17(1):150.
 
 ## Anatomía clave para el diseño
 #### Justificación anatómica y biomecánica
