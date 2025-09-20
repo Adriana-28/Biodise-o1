@@ -212,11 +212,28 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Geometría:</b><br>
         <ul>
-          <l1>Las dimensiones de la ortesis estan dentro de estos parametros(pacientes adultos)=</l1>
+          <l1>Las dimensiones de la ortesis estan dentro de estos    parametros(pacientes adultos):</l1>
           <li>25-30 cm longitud del brazo proximal</li>
           <li>20-25 cm longitud del antebrazo</li>
           <li>8-10 cm diámetro del brazo proximal</li>
           <li>6-8 cm diámetro del antebrazo</li>
+        </ul>
+      </td>
+      <td>MIM</td>
+    </tr>
+     <tr>
+      <td>12/09/2025</td>
+      <td>
+        E<br>
+        E
+      </td>
+      <td>
+        <b>Cinematica:</b><br>
+        <ul>
+          <li>La ortesis cuenta con un rango de angulación de 45°para iniciar la terapia con flexión total hasta 135° de extensión progresiva dependiendo del grado de espasticidad.
+</li>
+          <li>La ortesis cuenta con actuador que permite aplicar torque para extensión gradual del brazo en función del progreso del paciente dentro de rangos seguros. 
+</li>
         </ul>
       </td>
       <td>MIM</td>
