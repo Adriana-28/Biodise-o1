@@ -174,7 +174,16 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
     </tr>
   </thead>
   <tbody>
-    <!-- Función principal -->
+  <table>
+  <thead>
+    <tr style="background-color:#dbe5f1;">
+      <th>Fecha (cambios)</th>
+      <th>Deseo / Exigencia</th>
+      <th>Descripción</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>12/09/2025</td>
       <td>E</td>
@@ -186,15 +195,9 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       </td>
       <td>MDC</td>
     </tr>
-
-    <!-- Función secundaria -->
     <tr>
       <td>12/09/2025</td>
-      <td>
-        E<br>
-        E<br>
-        E
-      </td>
+      <td>E<br>E<br>E</td>
       <td>
         <b>Función Secundaria:</b><br>
         <ul>
@@ -205,22 +208,8 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       </td>
       <td>MTO</td>
     </tr>
-
-    <!-- Geometría -->
-    <tr>
-      <td>12/09/2025</td>
-      <td>
-        E<br>
-        E<br>
-        E<br>
-        E
-      </td>
-      <td>
-        <b>Geometría:</b><br>
-        Dimensiones de la ortesis (pacientes adultos):<br>
-        <ul>
-          <li>25-30 cm longitud del brazo proximal</li>
-          <li>20-25 cm longitud del antebra
+  </tbody>
+</table>
 
 
 
