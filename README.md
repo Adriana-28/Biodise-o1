@@ -470,7 +470,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Costo:</b><br>
         <ul>
-          <li>El diseño y desarrollo del dispositivo se encontrará dentro del presupuesto establecido de S/.20 mil(15 horas semanales por persona durante 8 semanas).
+          <li>El diseño y desarrollo del dispositivo se encontrará dentro del presupuesto establecido de S/.20 mil(12 horas semanales por persona).
 </li>
         </ul>
       </td>
@@ -484,7 +484,7 @@ https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
       <td>
         <b>Plazos:</b><br>
         <ul>
-          <li>El diseño se terminará a más tardar el 11/10 /2025.</li>
+          <li>El diseño se terminará a más tardar el 11/12 /2025.</li>
         </ul>
       </td>
       <td>MIM</td>
